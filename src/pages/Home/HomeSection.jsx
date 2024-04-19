@@ -13,10 +13,10 @@ const HomeSection = ({ ...props }) => {
       </div>
       <div className="leftSectionHome" data-aos="fade-right">
         <TagContainer tag="p" className="subTitleHome">
-          <b className="subTitleHomeText"> Welcome To </b>
+          <b className="subTitleHomeText"> Hi! I'm </b>
         </TagContainer>
         <TagContainer tag="h1" className="titleHome">
-          <h1 className="titleHomeText">Hackerspace</h1>
+          <h1 className="titleHomeText">Dandomi</h1>
         </TagContainer>
         <TagContainer tag="p" className="subTitleHome bottomTitleHome">
           <b className="subTitleHomeText"> Let's hack the future </b>
