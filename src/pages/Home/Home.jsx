@@ -16,8 +16,8 @@ const Home = () => {
     <>
       <HomeSection id="home" />
       <AboutSection id="about" />
-      <ProjectSection id="projects" />
-      <MembersSection id="members" />
+      <!--<ProjectSection id="projects" />
+      <MembersSection id="members" />-->
       <ContactSection id="contact" />
     </>
   );
