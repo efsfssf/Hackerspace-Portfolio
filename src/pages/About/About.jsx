@@ -23,12 +23,16 @@ const About = ({ ...props }) => {
           <span className="tagAbout tagAbout2">{`</h2>`}</span>
         </div>
         <div className="aboutDescription" data-aos="fade-up">
-          A Community of students having similar interest in the field of
-          coding, where one can learn, implement and share new skills. Here
-          students get more exposure and get to know about the industrial
-          experiences of working seniors. Hackerspace always maintains a
-          friendly environment for students to develop new skills and go beyond
-          the boundaries
+          Hi. My nickname is Dandomi, and I'm an experienced developer with a wide range of skills. Here's a bit of information about my experience and accomplishments: Programming languages: C# (I am familiar with the MVVM model and have experience developing applications on the .NET platform.)
+, Python (I use Python to automate tasks as well as develop web applications and analyze data.)
+, JavaScript (I develop interactive web applications using frameworks such as React or Vue.js.)
+, Java (I have created small projects in Java, including Android applications.)
+, PHP (My PHP experience includes web development and database integration.)
+, TypeScript (I use TypeScript to develop modern web applications.)
+, Kotlin (I am familiar with Kotlin and have used it to develop Android applications.)          
+Projects:
+          Online store: I created an online store with a full sales cycle including a payment system via SBP (Tinkoff). This project included frontend, backend and integration with the payment system.
+, Bot: I developed a bot that processes user requests and fulfills payment via SBP. This project demonstrates my skills in data processing and integration with external services.
         </div>
         <Journey id="journey" />
         <Experience id="experience" />
