@@ -1,17 +1,17 @@
 [
     {
-        "date": "2021 - 2022",
-        "title": "Idea Implemantation",
-        "description": "Few code junkies who wanted to do something different, went above and beyond holding the idea of creating a coding community where students can get more exposure."
+        "date": "2022",
+        "title": "Upload photos on behalf of any VK community",
+        "description": "A vulnerability was found in the social network VK, which allowed uploading photos on behalf of any community."
     },
     {
-        "date": "2022 - 2023",
-        "title": "Creation of Hackerspace",
-        "description": "After a lot of difficulties and persistent hard work they successfully created Hackerspace, which back then had a small group of students but none the less as Hackerspace started gaining it's fame"
+        "date": "2023",
+        "title": "Publish suggested posts indefinitely in VK",
+        "description": "This vulnerability allowed an infinite number of times to publish a suggested post to a VK group, while changing the text each time."
     },
     {
-        "date": "2023 - 2024",
-        "title": "Growing the Comunity",
-        "description": "Right after the orientation, a lot of students joined the community and Hackerspace started growing. A great senior-junior bond is it's forte, surely Hackerspace is a community where students can develop skills in a very friendly environment."
+        "date": "2024",
+        "title": "Play very long in VK Play for 80 rubles",
+        "description": "This vulnerability allowed to play in VK Play for the cheapest rate for a very long time until the session expired."
     }
 ]
