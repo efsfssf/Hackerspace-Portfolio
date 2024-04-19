@@ -22,24 +22,24 @@ const Experience = ({ ...props }) => {
           </div>
           <div className="experienceCard">
             <div className="cardTitle">
-              Members <br />
-              No.
+              Members of<br />
+              reports.
             </div>
-            <div className="cardSubTitle">70+</div>
+            <div className="cardSubTitle">6+</div>
           </div>
           <div className="experienceCard">
             <div className="cardTitle">
-              Ongoing
+              Earned
               <br /> Projects
             </div>
-            <div className="cardSubTitle">10+</div>
+            <div className="cardSubTitle">100 000+ rubles</div>
           </div>
           <div className="experienceCard">
             <div className="cardTitle">
               Years of
               <br /> Experience
             </div>
-            <div className="cardSubTitle">2+</div>
+            <div className="cardSubTitle">5+</div>
           </div>
         </div>
         <Divider />
