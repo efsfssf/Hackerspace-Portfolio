@@ -12,7 +12,7 @@ const Journey = ({ ...props }) => {
       </div>
       <div className="aboutDescription" data-aos="fade-up">
         Specializing in cybersecurity, I focus my efforts on finding and documenting vulnerabilities in large companies' information systems. Using advanced techniques and tools, I identify weaknesses in companies' defenses. Over the course of my work, I have created over 6 detailed vulnerability reports, most of which are categorized as high level. I utilize the Standoff 365 platform to report vulnerabilities found, thereby securing companies' data and operations. My goal is to improve defense and security. I provide information that allows companies to respond to potential threats in a timely manner.
-My contribution in the field of cybersecurity helps prevent potential incidents of data breaches and other forms of cyberattacks, thereby increasing trust and security in the digital space.
+My contribution in the field of cybersecurity helps prevent potential incidents of data breaches and other forms of cyberattacks, thereby increasing trust and security in the digital space. Below I have provided a brief chronology of particularly interesting vulnerabilities found.
       </div>
 
       <div className="timeline">
