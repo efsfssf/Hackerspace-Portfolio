@@ -19,7 +19,7 @@ const About = ({ ...props }) => {
       <section className="About" id="about">
         <div className="titleContainer">
           <span className="tagAbout tagAbout1">{`<h2>`}</span>
-          <h1 className="title">About Us</h1>
+          <h1 className="title">About Me</h1>
           <span className="tagAbout tagAbout2">{`</h2>`}</span>
         </div>
         <div className="aboutDescription" data-aos="fade-up">
