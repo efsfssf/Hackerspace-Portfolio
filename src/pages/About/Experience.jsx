@@ -23,14 +23,14 @@ const Experience = ({ ...props }) => {
           <div className="experienceCard">
             <div className="cardTitle">
               Members of<br />
-              reports.
+              reports on Standoff 365
             </div>
             <div className="cardSubTitle">6+</div>
           </div>
           <div className="experienceCard">
             <div className="cardTitle">
-              Earned
-              <br /> Projects
+              Earned on
+              <br /> vulnerabilities
             </div>
             <div className="cardSubTitle">100 000+ rubles</div>
           </div>
