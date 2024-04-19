@@ -16,18 +16,14 @@ const AboutSection = ({ ...props }) => {
 
       <div className="mob-aboutContent">
         <div>
-          Hello, my nickname is Dandomi and I am an experienced developer specializing in building high quality and reliable software solutions. With a deep understanding of C# and the MVVM architectural pattern, I strive to build intuitive and scalable applications. My experience includes working with Python, JavaScript, and contributing to projects in Java, PHP, TypeScript, and Kotlin.
-However, my passion is not limited to development. I am also active in finding vulnerabilities in software and web resources, which makes me not only a developer but also an ethical hacker. My cybersecurity efforts have resulted in over 6 high level vulnerability reports on the Standoff 365 platform, which emphasizes my dedication to protecting data and systems.
-With me, you won't just get code, but a valuable partner ready to take responsibility for the security and efficiency of your software products.
+Hi Dandomi. I'm an experienced developer specializing in C# and MVVM, with experience in Python, JavaScript, Java, PHP, TypeScript, and Kotlin. I'm also an active software and web vulnerability researcher, with over 6 high-level vulnerability reports on the Standoff 365 platform. I am not just a developer, but a valued partner willing to take responsibility for the security and efficiency of your software products.
         </div>
       </div>
 
       <div className="aboutContent">
         <div className="aboutText">
           <p>
-            Hello, my nickname is Dandomi and I am an experienced developer specializing in building high quality and reliable software solutions. With a deep understanding of C# and the MVVM architectural pattern, I strive to build intuitive and scalable applications. My experience includes working with Python, JavaScript, and contributing to projects in Java, PHP, TypeScript, and Kotlin.
-However, my passion is not limited to development. I am also active in finding vulnerabilities in software and web resources, which makes me not only a developer but also an ethical hacker. My cybersecurity efforts have resulted in over 6 high level vulnerability reports on the Standoff 365 platform, which emphasizes my dedication to protecting data and systems.
-With me, you won't just get code, but a valuable partner ready to take responsibility for the security and efficiency of your software products.
+Hi Dandomi. I'm an experienced developer specializing in C# and MVVM, with experience in Python, JavaScript, Java, PHP, TypeScript, and Kotlin. I'm also an active software and web vulnerability researcher, with over 6 high-level vulnerability reports on the Standoff 365 platform. I am not just a developer, but a valued partner willing to take responsibility for the security and efficiency of your software products.
           </p>
         </div>
         <div className="aboutLogo"></div>
