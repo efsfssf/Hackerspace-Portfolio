@@ -3,34 +3,23 @@ import { IoCall } from "react-icons/io5";
 import { IoLogoWhatsapp } from "react-icons/io";
 import { MdEmail } from "react-icons/md";
 import { FaLocationDot } from "react-icons/fa6";
+import { ImTelegram } from "react-icons/im";
 import Style from "../../css/socials.module.css";
 
 const Socials = () => {
   const socials = [
     {
-      name: "Phone",
-      icon: <IoCall />,
-      link: "tel:+123456789",
-      message: "+12 3456789",
-    },
-    {
-      name: "Whatsapp",
-      icon: <IoLogoWhatsapp />,
-      link: "https://wa.me/+123456789",
-      message: "Whatsapp",
+      name: "Telegram",
+      icon: <ImTelegram />,
+      link: "https://t.me/zelenka_lzt_team",
+      message: "Telegram",
     },
     {
       name: "Email",
       icon: <MdEmail />,
-      link: "mailto:hackerspace@gmail.com",
-      message: "hackerspace@gmail.com",
-    },
-    {
-      name: "Home & Office",
-      icon: <FaLocationDot />,
-      link: "https://maps.app.goo.gl/bkG6nHNoiGp1PPFs6",
-      message: "Uchhepota, Kolkata",
-    },
+      link: "mailto:dandomiplay1@gmail.com",
+      message: "dandomiplay1@gmail.com",
+    }
   ];
 
   return (
