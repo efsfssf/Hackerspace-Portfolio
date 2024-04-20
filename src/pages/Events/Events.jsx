@@ -108,13 +108,11 @@ const Events = () => {
     <section className="Events">
       <div className="titleContainer">
         <span className="tagAbout tagAbout1">{`<h2>`}</span>
-        <h1 className="title">Our Events</h1>
+        <h1 className="title">Events</h1>
         <span className="tagAbout tagAbout2">{`</h2>`}</span>
       </div>
       <div className="aboutDescription">
-        Hackerspace keenly engages in hosting various hackathons, coding
-        contests, and workshops to engage students in coding projects, skill
-        development, and networking opportunities.
+        Below is a list of events I have participated in
       </div>
       <EventsCategory
         category="category"
