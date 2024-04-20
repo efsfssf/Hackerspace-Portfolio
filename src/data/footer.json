@@ -13,18 +13,8 @@
         "type": "internal"
       },
       {
-        "text": "Projects",
-        "link": "/projects",
-        "type": "internal"
-      },
-      {
         "text": "Events",
         "link": "/events",
-        "type": "internal"
-      },
-      {
-        "text": "Members",
-        "link": "/members",
         "type": "internal"
       },
       {
