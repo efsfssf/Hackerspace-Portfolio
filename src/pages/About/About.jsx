@@ -36,7 +36,6 @@ Projects:
         </div>
         <Journey id="journey" />
         <Experience id="experience" />
-        <ProjectSection id="projects" />
       </section>
     </section>
   );
