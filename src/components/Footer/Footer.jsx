@@ -66,7 +66,7 @@ const Footer = () => {
         </div>
         <div className="text-xs md:text-sm flex gap-2 flex-row justify-between text-primary pt-4">
           <div>
-            <span>&copy; HackerSpace, 2024.</span>
+            <span>&copy; Dandomi, 2024.</span>
             <br className="lg:hidden" />
             <span>&nbsp;All rights reserved.</span>
           </div>
