@@ -23,7 +23,7 @@ Hi. I'm an experienced developer specializing in C# and MVVM, with experience in
       <div className="aboutContent">
         <div className="aboutText">
           <p>
-Hi Dandomi. I'm an experienced developer specializing in C# and MVVM, with experience in Python, JavaScript, Java, PHP, TypeScript, and Kotlin. I'm also an active software and web vulnerability researcher, with over 6 high-level vulnerability reports on the Standoff 365 platform. I am not just a developer, but a valued partner willing to take responsibility for the security and efficiency of your software products.
+Hi. I'm an experienced developer specializing in C# and MVVM, with experience in Python, JavaScript, Java, PHP, TypeScript, and Kotlin. I'm also an active software and web vulnerability researcher, with over 6 high-level vulnerability reports on the Standoff 365 platform. I am not just a developer, but a valued partner willing to take responsibility for the security and efficiency of your software products.
           </p>
         </div>
         <div className="aboutLogo"></div>
