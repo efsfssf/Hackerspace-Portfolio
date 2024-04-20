@@ -28,14 +28,14 @@ const Footer = () => {
               </div>
             </div>
             <div className="flex items-center gap-6 py-4">
-              
-            </div>
-          </div>
-          <img
+              <img
             src="https://github.com/Hackerspace2023/hackspace-portfolio-images/blob/main/QR/link1.jpg?raw=true"
             alt="QR_CODE"
             className="QR"
           />
+            </div>
+          </div>
+          
           <div className="flex gap-2 flex-col sm:flex-row lg:w-3/5">
             {footer.map((column, index) => (
               <div className="flex-1 space-y-2" key={index}>
