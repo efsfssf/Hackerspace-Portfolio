@@ -1,62 +1,12 @@
 [
     {
-        "eventName": "Orientation 2024",
-        "eventDate": "2024-04-08",
-        "eventTime": "03:45 PM",
-        "location": "MSIT, Kolkata",
-        "description": "This was an Orientation event for the 1st years telling them what Hackerspace is and it's motive to Hack the Future.",
-        "eventImage": "https://github.com/Hackerspace2023/hackspace-portfolio-images/blob/main/Events/Orientation-2(2024)-1.jpeg?raw=true",
+        "eventName": "VK Bug Bounty",
+        "eventDate": "2024-04-18",
+        "eventTime": "",
+        "location": "Russia, Moscow",
+        "description": "I was invited to the VK Bug Bounty hacker event. I was invited to this event and received a prize at the event.",
+        "eventImage": "",
         "registrationLink": "NULL",
-        "category": "past"
-    },
-    {
-        "eventName": "Node, SQL Session",
-        "eventDate": "2024-03-04",
-        "eventTime": "04:15 PM",
-        "location": "MSIT, Kolkata",
-        "description": "Hackerspace Backend Bonanza is a comprehensive coding workshop series, offering hands-on learning and mentorship to elevate participants' backend development skills.",
-        "eventImage": "https://github.com/Hackerspace2023/hackspace-portfolio-images/blob/main/Events/Node_Sql(2024).jpeg?raw=true",
-        "registrationLink": "https://forms.gle/gtkRC2YQvJexegbJ9",
-        "category": "past"
-    },
-    {
-        "eventName": "CodeCraft 2.0",
-        "eventDate": "2024-01-14",
-        "eventTime": "03:00 PM",
-        "location": "Online",
-        "description": "This was the 2nd Web Development Contest conducted for 24 hours where each individual embarked on a Digital Odyssey to solve the given problem statement.",
-        "eventImage": "https://github.com/Hackerspace2023/hackspace-portfolio-images/blob/main/Events/CodeCraft-2(2024).jpeg?raw=true",
-        "registrationLink": "",
-        "category": "past"
-    },
-    {
-        "eventName": "Git GitHub Session",
-        "eventDate": "2023-10-07",
-        "eventTime": "06:30 PM",
-        "location": "Online",
-        "description": "This was a session on mastering Version Control System and Collaboration using Git and Github for Hacktoberfest 2023.",
-        "eventImage": "https://github.com/Hackerspace2023/hackspace-portfolio-images/blob/main/Events/Git_GitHub(2023).jpeg?raw=true",
-        "registrationLink": "",
-        "category": "past"
-    },
-    {
-        "eventName": "CodeCraft 1.0",
-        "eventDate": "2023-09-02",
-        "eventTime": "12:00 AM",
-        "location": "Online",
-        "description": "This was a Web Development Contest conducted for 24 hours where each individual embarked on a Digital Odyssey to solve the given problem statement.",
-        "eventImage": "https://github.com/Hackerspace2023/hackspace-portfolio-images/blob/main/Events/CodeCraft-1(2023).jpeg?raw=true",
-        "registrationLink": "",
-        "category": "past"
-    },
-    {
-        "eventName": "Orientation 2023",
-        "eventDate": "2023-08-28",
-        "eventTime": "10:00 AM",
-        "location": "MSIT, Kolkata",
-        "description": "This was an Orientation event for the 1st and 2nd years telling them what Hackerspace is and it's motive to Hack the Future.",
-        "eventImage": "https://github.com/Hackerspace2023/hackspace-portfolio-images/blob/main/Events/Orientation-1(2023).jpeg?raw=true",
-        "registrationLink": "",
         "category": "past"
     }
 ]
