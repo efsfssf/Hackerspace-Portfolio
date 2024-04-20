@@ -22,48 +22,13 @@ const Footer = () => {
               />
               <div className="ms-4">
                 <h3 className="text-2xl md:text-4xl font-audiowide">
-                  HackerSpace
+                  Dandomi
                 </h3>
                 <p className="text-primary mt-2">Let's Hack The Future</p>
               </div>
             </div>
             <div className="flex items-center gap-6 py-4">
-              <a href="https://msit.edu.in" target="_blank" rel="noreferrer">
-                <img
-                  src="/static/powered-by/msit-logo.png"
-                  alt="MSIT logo"
-                  className="max-h-12 object-contain bg-white rounded-full p-0.5 pb-1 aspect-square"
-                />
-              </a>
-              <a href="https://ieee.org" target="_blank" rel="noreferrer">
-                <img
-                  src="/static/powered-by/ieee-logo.png"
-                  alt="IEEE logo"
-                  className="max-h-12 object-contain"
-                />
-              </a>
-              <a
-                href="https://technoindiagroup.com"
-                target="_blank"
-                rel="noreferrer"
-              >
-                <img
-                  src="Techno_Small.png"
-                  alt="Techno India logo"
-                  className="h-12 object-contain"
-                />
-              </a>
-              <a
-                href="https://www.computer.org/"
-                target="_blank"
-                rel="noreferrer"
-              >
-                <img
-                  src="IEEE_Computer_Society.png"
-                  alt="IEEE MSIT Student Chapter logo"
-                  className="h-12 object-contain"
-                />
-              </a>
+              
             </div>
           </div>
           <img
