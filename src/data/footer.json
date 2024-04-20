@@ -30,31 +30,11 @@
     ]
   },
   {
-    "title": "Follow Us",
+    "title": "Follow Me",
     "items": [
       {
-        "text": "GitHub",
-        "link": "https://github.com/hackerspace2023",
-        "type": "external"
-      },
-      {
-        "text": "Facebook",
-        "link": "https://www.facebook.com/people/HackerSpace/100091680046825/",
-        "type": "external"
-      },
-      {
-        "text": "Instagram",
-        "link": "https://www.instagram.com/_hackerspace_msit_/",
-        "type": "external"
-      },
-      {
-        "text": "Twitter",
-        "link": "https://twitter.com/_hackerspace_",
-        "type": "external"
-      },
-      {
-        "text": "YouTube",
-        "link": "https://youtube.com/@CodingCommunityMSITHackerspace",
+        "text": "Standoff 365",
+        "link": "https://standoff365.com/profile/Dandomi/",
         "type": "external"
       }
     ]
@@ -64,31 +44,6 @@
     "items": [
       {
         "text": "Web Developement",
-        "link": "/",
-        "type": "internal"
-      },
-      {
-        "text": "App Developement",
-        "link": "/",
-        "type": "internal"
-      },
-      {
-        "text": "Data Science",
-        "link": "/",
-        "type": "internal"
-      },
-      {
-        "text": "Machine Learning",
-        "link": "/",
-        "type": "internal"
-      },
-      {
-        "text": "Artificial Intelligence",
-        "link": "/",
-        "type": "internal"
-      },
-      {
-        "text": "Cloud Computing",
         "link": "/",
         "type": "internal"
       }
