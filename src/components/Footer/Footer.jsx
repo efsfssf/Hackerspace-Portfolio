@@ -29,7 +29,7 @@ const Footer = () => {
             </div>
             <div className="flex items-center gap-6 py-4">
               <img
-            src="https://github.com/Hackerspace2023/hackspace-portfolio-images/blob/main/QR/link1.jpg?raw=true"
+            src="https://raw.githubusercontent.com/efsfssf/hackspace-portfolio-images/main/QR/link1.jpg"
             alt="QR_CODE"
             className="QR"
           />
