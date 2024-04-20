@@ -29,24 +29,9 @@ const Contact = () => {
         <section className={Style.contactSection} id="contact">
           <div className={Style.contactCard}>
             <div className={Style.left}>
-              <div className={Style.leftTitle}>Contact Us</div>
+              <div className={Style.leftTitle}>Contact Me</div>
               <div className={Style.leftSubTitle}>with other platforms</div>
               <Socials />
-              <iframe
-                src="https://www.google.com/maps/embed?pb=!4v1711550782756!6m8!1m7!1sCAoSLEFGMVFpcFBhbldKSG4xTVBzbnM4cHJQX2pPUjBmeHlQVVoxblE0N3RScXcx!2m2!1d22.5105556!2d88.41515629999999!3f204.34!4f13.930000000000007!5f0.4000000000000002"
-                style={{ border: 0 }}
-                allowfullscreen=""
-                loading="lazy"
-                referrerpolicy="no-referrer-when-downgrade"
-                className={Style.map}
-              ></iframe>
-              <a
-                href="https://www.google.com/maps?ll=22.51047,88.415088&z=16&t=m&hl=en&gl=IN&mapclient=embed&cid=13627599571396767696"
-                target="_blank"
-                className="mapButton"
-              >
-                View In Map
-              </a>
             </div>
             <div className={Style.right}>
               <div className={Style.rightTitle}>Contact Form</div>
