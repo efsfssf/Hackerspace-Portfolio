@@ -12,14 +12,6 @@
                 "link": "/#about"
             },
             {
-                "text": "Projects",
-                "link": "/#projects"
-            },
-            {
-                "text": "Members",
-                "link": "/#members"
-            },
-            {
                 "text": "Contact",
                 "link": "/#contact"
             }
@@ -44,28 +36,6 @@
             {
                 "text": "Members",
                 "link": "/about/#members"
-            }
-        ]
-    },
-    "projects": {
-        "navTitle": "project",
-        "navNumber": "03",
-        "navItems": [
-            {
-                "text": "Projects",
-                "link": "/project/#projects"
-            },
-            {
-                "text": "Web",
-                "link": "/project/#web"
-            },
-            {
-                "text": "Python",
-                "link": "/project/#python"
-            },
-            {
-                "text": "Other",
-                "link": "/project/#other"
             }
         ]
     },
@@ -100,11 +70,6 @@
                 "link": "/gallery/#photos"
             }
         ]
-    },
-    "members": {
-        "navTitle": "members",
-        "navNumber": "05",
-        "navItems": []
     },
     "contact": {
         "navTitle": "contact",
